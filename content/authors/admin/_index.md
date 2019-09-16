@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Diana R. Cai
+name: Diana Cai
 
 # Username (this should match the folder name)
 authors:
@@ -22,9 +22,9 @@ bio: I am broadly interested in probabilistic modeling, and in particular, theor
 
 interests:
 - Bayesian inference
-- Probabilistic modeling
-- Machine Learning
+- Machine learning
 - Nonparametric methods
+- Robust inference
 
 education:
   courses:
@@ -72,5 +72,14 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at Princeton University in computer science, working on problems in Bayesian statistics and machine learning. I am particularly interested in developing robust and scalable methods for probabilistic modeling and inference. At Princeton, I am a member of the Laboratory for Intelligent Probabilistic Systems Group and the Biological and Evolutionary Explorations using Hierarchical Integrative Statistical Models Group. Currently, I serve on the Women in Machine Learning Board of Directors. My research is generously supported by a Google PhD Fellowship in Machine Learning.
+I am a PhD student at Princeton University in Computer Science and am broadly interested in machine learning and statistics,
+  with an emphasis on developing robust and reliable methods for probabilistic modeling and Bayesian inference.
+At Princeton, I am advised by <a href="https://www.cs.princeton.edu/~rpa/">Ryan P. Adams</a> and <a href="https://www.cs.princeton.edu/~bee/">Barbara Engelhardt</a>, and I also work with <a href="http://tamarabroderick.com">Tamara Broderick</a> at MIT.
+I am a member of the <a href="http://lips.cs.princeton.edu/">Laboratory for Intelligent Probabilistic Systems Group</a> and the <a href="http://beehive.cs.princeton.edu">Biological and Evolutionary Explorations using Hierarchical Integrative Statistical Models Group</a>.
+
+Previously, I received an A.B. in Computer Science and Statistics from Harvard
+University and an M.S. in Statistics from the University of Chicago.
+During the summer of 2019,
+I was an intern at Microsoft Research New England, where I worked with <a href="http://nicolofusi.com">Nicolo Fusi</a> and <a href="https://web.stanford.edu/~lmackey/index.html">Lester Mackey</a>.
+Currently, I am a member of the <a href="https://wimlworkshop.org/">Women in Machine Learning</a> <a href="https://wimlworkshop.org/board-of-directors/">Board of Directors</a>. My research is generously supported by a <a href="https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html">Google PhD Fellowship in Machine Learning</a>.
 
