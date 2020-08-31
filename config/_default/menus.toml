@@ -2,11 +2,18 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+#
+# DC: eventually include writings and CV
 
 [[main]]
   name = "Home"
   url = "#about"
   weight = 10
+
+[[main]]
+  name = "News"
+  url = "#news"
+  weight = 20
 
 #[[main]]
 #  name = "Posts"
@@ -16,17 +23,23 @@
 #[[main]]
 #  name = "Projects"
 #  url = "#projects"
-#  weight = 30
+#  weight = 20
 
 [[main]]
   name = "Papers"
-  url = "#publications"
+  #url = "/publication/"
+  url = "#featured"
   weight = 30
 
 #[[main]]
 #  name = "Talks"
 #  url = "#talks"
 #  weight = 30
+#
+[[main]]
+  name = "Resources"
+  url = "#posts"
+  weight = 40
 
 [[main]]
   name = "Contact"
@@ -39,3 +52,4 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+

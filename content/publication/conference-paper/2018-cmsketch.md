@@ -1,5 +1,5 @@
 ---
-title: "A Bayesian Nonparametric View on Count-Min Sketch"
+title: "A Bayesian nonparametric view on count-min sketch"
 authors:
 - admin
 - Michael Mitzenmacher
@@ -55,6 +55,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - probmodeling
+- constrained
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

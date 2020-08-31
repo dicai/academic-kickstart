@@ -20,10 +20,10 @@ publication_types: ["2"]
 publication: Electronic Journal of Statistics
 #publication_short: Advances in Neural Information Processing Systems, 2016
 
-abstract:
+abstract: Directed graphs occur throughout statistical modeling of networks, and exchangeability is a natural assumption when the ordering of vertices does not matter. There is a deep structural theory for exchangeable undirected graphs, which extends to the directed case via measurable objects known as digraphons. Using digraphons, we first show how to construct models for exchangeable directed graphs, including special cases such as tournaments, linear orderings, directed acyclic graphs, and partial orderings. We then show how to construct priors on digraphons via the infinite relational digraphon model (di-IRM), a new Bayesian nonparametric block model for exchangeable directed graphs, and demonstrate inference on synthetic data.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: In EJS 2016
 
 tags:
 - publication

@@ -16,16 +16,17 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: NeurIPS Workshop on Networks in the Social and Information Sciences
+publication: NeurIPS Workshop on Networks in the Social and Information Sciences [<font color="purple">Spotlight</font>]
 #publication_short: NeurIPS, 2018
 
 abstract:
 
 # Summary. An optional shortened abstract.
-summary:
+summary: In NeurIPS 2015 Workshop on Networks in the Social and Information Sciences
 
 tags:
 - workshop
+
 featured: false
 
 #links:
@@ -53,7 +54,8 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- structured
+- graphs
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: NeurIPS Workshop on Networks in the Social and Information Sciences
+publication: NeurIPS 2015 Workshop on Networks in the Social and Information Sciences [<font color="purple">Spotlight</font>]
 #publication_short: NeurIPS, 2018
 
 abstract:

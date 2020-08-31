@@ -17,16 +17,17 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: NIPS Workshop on Adaptive and Scalable Nonparametric Methods in Machine Learning
-#publication_short: NeurIPS, 2018
+publication: NeurIPS Workshop on Adaptive and Scalable Nonparametric Methods in Machine Learning <font color="purple">[Talk]</font>
+publication_short:
 
 abstract:
 
 # Summary. An optional shortened abstract.
-summary:
+summary: In NeurIPS 2016 Workshop on Adaptive and Scalable Nonparametric Methods in Machine Learning
 
 tags:
 - workshop
+
 featured: false
 
 #links:
@@ -54,7 +55,8 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- structured
+- graphs
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

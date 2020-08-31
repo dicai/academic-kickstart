@@ -14,20 +14,23 @@ primary_dark = "#002984"
 
 # Menu (light color bar)
 # color of the menu bar
-menu_primary = "#fff" # white
+#menu_primary = "#fff" # white
 # color of default menu text
-menu_text = "#34495e" # dark gray
+#menu_text = "#34495e" # dark gray
 #menu_text = "#4527A0" # purple
-#menu_text = "#633974" # purple 2
 #menu_text = "#581845" # maroon
 # color of active menu item
-#menu_text_active = "#4527A0" # purple 1
-menu_text_active = "#633974" # purple 2
-#menu_text_active = "#BB8FCE" # light purple
+#menu_text_active = "#4527A0" # purple
 #menu_text_active = "#D98880"
 # color of LHS menu
 #menu_title = "#581845"
-menu_title = "#fff"
+#menu_title = "#fff"
+
+# Menu (dark color bar)
+menu_primary = "#633974" # purple 2
+menu_text = "#fff" # white
+menu_text_active = "#BB8FCE" # light purple
+menu_title = "#633974"
 
 
 # Home sections

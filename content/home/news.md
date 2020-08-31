@@ -1,9 +1,8 @@
 +++
 # Experience widget.
 widget = "newslist"  # See https://sourcethemes.com/academic/docs/page-builder/
-#widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Recent News"
@@ -19,17 +18,18 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-#title = "New arXiV paper"
-  newsitem = "Preprint: Finite mixtures are typically inconsistent for the number of components"
-  url = "https://www.dianacai.com"
-  date_start = "2020-07-01"
-#date_end = ""
-#description = """ """
+  newsitem = "Paper: Finite mixtures are typically inconsistent for the number of components (ArXiv preprint)"
+  url = "https://arxiv.org/abs/2007.04470"
+  date_start = "2020-07-08"
 
 [[experience]]
-  title = "Professor"
-  company = "Papers: I am excited to present"
-  company_url = ""
-  date_start = "2016-01-01"
+  newsitem = "Paper: Weighted meta-learning (ICML AutoML Workshop)"
+  url = "https://sites.google.com/view/automl2020/home"
+  date_start = "2020-06-01"
+
+[[experience]]
+  newsitem = "Internship: Google Research NYC (Summer 2020)"
+  url = "https://research.google/"
+  date_start = "2020-05-28"
 
 +++

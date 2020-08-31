@@ -1,0 +1,36 @@
+# Theme metadata
+name = "my_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#581845" # maroon
+primary_light = "#757de8"
+primary_dark = "#002984"
+
+# Menu (light color bar)
+# color of the menu bar
+#menu_primary = "#fff"
+# color of default menu text
+#menu_text = "#34495e" # dark gray
+# color of active menu item
+#menu_text_active = "#581845"
+# color of LHS menu
+#menu_title = "#fff"
+
+
+# Menu (dark color bar)
+# color of the menu bar
+menu_primary = "#581845" # maroon
+# color of default menu text
+menu_text = "#fff"
+# color of active menu item
+menu_text_active = "#F2D7D5" # light pink
+# color of LHS menu
+menu_title = "#581845" # maroon
+
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
