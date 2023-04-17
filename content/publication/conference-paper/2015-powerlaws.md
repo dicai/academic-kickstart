@@ -1,7 +1,7 @@
 ---
 title: "Completely random measures for modeling power laws in graphs"
 authors:
-- admin
+- Diana Cai
 - Tamara Broderick
 date: "2015-12-01T00:00:00Z"
 doi: ""
@@ -16,7 +16,8 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: NeurIPS 2015 Workshop on Networks in the Social and Information Sciences [<font color="purple">Spotlight</font>]
+publication: NeurIPS 2015 Workshop on Networks in the Social and Information Sciences
+publication_detail: Spotlight presentation
 #publication_short: NeurIPS, 2018
 
 abstract:
@@ -54,6 +55,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - internal-project
+- bnp
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

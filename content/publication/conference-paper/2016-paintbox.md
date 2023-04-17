@@ -1,7 +1,7 @@
 ---
 title: "Paintboxes and probability functions for edge-exchangeable graphs"
 authors:
-- admin
+- Diana Cai
 - Trevor Campbell
 - Tamara Broderick
 date: "2016-12-01T00:00:00Z"
@@ -17,8 +17,9 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: NeurIPS Workshop on Adaptive and Scalable Nonparametric Methods in Machine Learning <font color="purple">[Talk]</font>
+publication: NeurIPS Workshop on Adaptive and Scalable Nonparametric Methods in Machine Learning
 publication_short:
+publication_detail: Oral presentation
 
 abstract:
 
@@ -57,6 +58,7 @@ image:
 projects:
 - structured
 - graphs
+- bnp
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -68,7 +70,8 @@ slides: example
 
 This article focuses on the graph paintbox. A full journal article on a more
 general structure, trait allocations, is available online:
+
 <a
-href=https://projecteuclid.org/download/pdfview_1/euclid.ejs/1532484331">
+href="https://projecteuclid.org/download/pdfview_1/euclid.ejs/1532484331">
 Trevor Campbell, Diana Cai, Tamara Broderick.
 Exchangeable trait allocations. Electronic Journal of Statistics, 2018.</a>

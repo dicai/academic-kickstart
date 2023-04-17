@@ -2,7 +2,7 @@
 title: "Edge-exchangeable graphs and sparsity"
 authors:
 - Tamara Broderick
-- admin
+- Diana Cai
 date: "2015-12-01T00:00:00Z"
 doi: ""
 
@@ -16,7 +16,8 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: NeurIPS Workshop on Networks in the Social and Information Sciences [<font color="purple">Spotlight</font>]
+publication: NeurIPS Workshop on Networks in the Social and Information Sciences
+publication_detail: Spotlight presentation
 #publication_short: NeurIPS, 2018
 
 abstract:

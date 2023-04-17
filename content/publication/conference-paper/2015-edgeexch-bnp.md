@@ -2,7 +2,7 @@
 title: "Edge-exchangeable graphs, sparsity, and power laws"
 authors:
 - Tamara Broderick
-- admin
+- Diana Cai
 date: "2015-12-01T00:00:00Z"
 doi: ""
 
@@ -16,8 +16,9 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: NeurIPS Workshop on Bayesian Nonparametrics [<font color="purple">ISBA@NeurIPS Award & Talk</font>]
+publication: NeurIPS Workshop on Bayesian Nonparametrics
 #publication_short: NeurIPS, 2018
+publication_detail: ISBA@NeurIPS Award & oral presentation
 
 abstract:
 

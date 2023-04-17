@@ -1,7 +1,7 @@
 ---
 title: "A Bayesian nonparametric view on count-min sketch"
 authors:
-- admin
+- Diana Cai
 - Michael Mitzenmacher
 - Ryan P. Adams
 date: "2018-12-01T00:00:00Z"
@@ -26,12 +26,18 @@ abstract: The count-min sketch is a time- and memory-efficient randomized data s
 summary:
 
 tags:
-- probmodeling
+- probabilistic modeling
+- count-min sketch
+- data structures
+- data streaming
+- Bayesian nonparametrics
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: BibTeX
+  url: publication/conference-paper/2018-cmsketch/#citation
+- name: Poster
+  url: https://drive.google.com/file/d/1eAbWkjNB2lpw4nypEYu29RBj_mQ2_thg/view?usp=sharing
 url_pdf: http://papers.nips.cc/paper/8093-a-bayesian-nonparametric-view-on-count-min-sketch.pdf
 #url_code: '#'
 #url_dataset: '#'
@@ -55,7 +61,8 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - probmodeling
-- constrained
+- inference
+- bnp
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -64,4 +71,17 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+
+## Citation
+
+```
+@inproceedings{cai2018bayesian,
+  title={A Bayesian nonparametric view on count-min sketch},
+  author={Cai, Diana and Mitzenmacher, Michael and Adams, Ryan P},
+  booktitle={Advances in Neural Information Processing Systems 31},
+  pages={8782--8791},
+  year={2018}
+}
+```
 

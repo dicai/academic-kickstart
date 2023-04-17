@@ -1,7 +1,7 @@
 ---
 title: "Finite mixture models are typically inconsistent for the number of components"
 authors:
-- admin
+- Diana Cai
 - Trevor Campbell
 - Tamara Broderick
 date: "2017-12-01T00:00:00Z"
@@ -32,7 +32,7 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: http://approximateinference.org/2017/accepted/CaiEtAl2017.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -54,7 +54,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

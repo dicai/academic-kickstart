@@ -1,7 +1,7 @@
 ---
 title: "Priors on exchangeable directed graphs"
 authors:
-- admin
+- Diana Cai
 - Nathanael Ackerman
 - Cameron Freer
 date: "2016-10-01T00:00:00Z"
@@ -23,15 +23,22 @@ publication: Electronic Journal of Statistics
 abstract: Directed graphs occur throughout statistical modeling of networks, and exchangeability is a natural assumption when the ordering of vertices does not matter. There is a deep structural theory for exchangeable undirected graphs, which extends to the directed case via measurable objects known as digraphons. Using digraphons, we first show how to construct models for exchangeable directed graphs, including special cases such as tournaments, linear orderings, directed acyclic graphs, and partial orderings. We then show how to construct priors on digraphons via the infinite relational digraphon model (di-IRM), a new Bayesian nonparametric block model for exchangeable directed graphs, and demonstrate inference on synthetic data.
 
 # Summary. An optional shortened abstract.
-summary: In EJS 2016
+summary: Directed graphs occur throughout statistical modeling of networks, and exchangeability is a natural assumption when the ordering of vertices does not matter. There is a deep structural theory for exchangeable undirected graphs, which extends to the directed case via measurable objects known as digraphons ...
 
 tags:
-- publication
+- graphs
+- model misspecification
+- exchangeability
+- Bayesian nonparametrics
+- mixture models
+
 featured: true
 
 links:
 - name: arXiv
   url: http://arxiv.org/abs/1510.08440
+- name: BibTeX
+  url: publication/journal-article/2016-digraphons/#citation
 url_pdf: http://projecteuclid.org/download/pdfview_1/euclid.ejs/1479287229
 #url_code: '#'
 #url_dataset: '#'
@@ -55,6 +62,7 @@ url_pdf: http://projecteuclid.org/download/pdfview_1/euclid.ejs/1479287229
 #   Otherwise, set `projects: []`.
 projects:
 - graphs
+- bnp
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -65,5 +73,24 @@ slides: example
 ---
 
 <i>Preliminary version in the NIPS Workshop on Bayesian Nonparametrics, 2015. </i>
+
+## Additional Notes
+*<b>Keywords:</b> directed graphs, directed exchangeable graphs, directed stochastic
+block model, directed infinite relational model*
+
+
+## Citation
+
+```
+@article{cai2016priors,
+  title={Priors on exchangeable directed graphs},
+  author={Cai, Diana and Ackerman, Nathanael and Freer, Cameron},
+  journal={Electronic Journal of Statistics},
+  volume={10},
+  number={2},
+  pages={3490 -- 3515},
+  year={2015}
+}
+```
 
 
