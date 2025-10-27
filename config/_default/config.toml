@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Diana R. Cai"
+title = "Diana Cai"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -16,10 +16,11 @@ baseurl = "https://dicai.github.io/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-41764983-2"
+googleAnalytics = "G-R6784GJ960" #"UA-41764983-2"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
+
 
 
 ############################
@@ -75,3 +76,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+# GA?
+[params.google.analytics]
+  id = "G-R6784GJ960"

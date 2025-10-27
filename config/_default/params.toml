@@ -23,7 +23,7 @@ font = "default"
 #font_size = "small"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Research papers and presentations of Diana Cai, researcher in machine learning and statistics at Princeton University."
+description = "Research papers and presentations of Diana Cai, researcher in machine learning and statistics at the Flatiron Institute."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -75,7 +75,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "dcai at cs.princeton.edu"
+email = "dcai at flatironinstitute.org"
 phone = ""
 address = ""
 
